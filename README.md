@@ -36,12 +36,11 @@ A functional contact form that allows visitors to send messages directly.
 Each page includes thoughtful design elements like images, icons, logos, and a polished CSS design.
 
 #### Downloadable CV:  
-A CV is downloadable from the About page.
+A CV is downloadable from the Education page.
 
 ### Technologies Used
 * HTML: Structure of the website.
 * CSS: Styling for layout, typography, forms, hover effects, and more.
-* Flexbox and grid used for layout management.
 * Custom fonts and color schemes to reflect a professional yet friendly tone.
 * GitHub: For version control and hosting the project repository.
 
