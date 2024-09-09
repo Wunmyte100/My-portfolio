@@ -13,26 +13,26 @@ This portfolio site is built to represent my professional and academic achieveme
 It includes:
 
 * A Home Page with a welcoming message and an image section.
-* An About Page showcasing Omowunmi's background.
-* An Education Page listing institutions attended with logos linked to their homepages.
-* An Interests Page displaying areas of passion and personal growth.
+* An About Page showcasing my background.
+* An Education Page where my CV can be downloaded, and also listing institutions attended with logos linked to their homepages.
+* An Interests Page displaying areas of my passion and personal growth.
 * A Projects Page highlighting key projects, with links to GitHub or live versions.
 * A Contact Page with a form and direct links to email and phone.
 
 ### Features
 #### Multi-page Layout:  
 Each section (About, Education, Interests, Projects, Contact) is presented on a separate page.
+
 #### Responsive Design:  
-
 The website is fully responsive and adapts to different screen sizes, including mobile and desktop.
+
 #### Dynamic Navigation:  
-
 The navigation menu highlights the current page you're on.
+
 #### Forms:  
-
 A functional contact form that allows visitors to send messages directly.
-#### Visual Enhancements:  
 
+#### Visual Enhancements:  
 Each page includes thoughtful design elements like images, icons, logos, and a polished CSS design.
 
 #### Downloadable CV:  
