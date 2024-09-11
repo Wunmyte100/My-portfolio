@@ -37,11 +37,6 @@ header h1 {
     font-weight: 700;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0px 0;
-}
-
 nav ul li {
     display: inline;
     margin: 0 5px;
