@@ -328,6 +328,13 @@ label {
     background-color: #2980b9;
 }
 
+.contact-CTA {
+    height: 100%;
+    weight:100%;
+    background-image: url('https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    
+}
 /* Footer */
 footer {
     background-color: #2c3e50;
